@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "author": "Erik Larson",
-  "description": "",
+  "description": "A simple utility application where users can keep track of daily goals and objectives",
   "type": "module",
   "scripts": {
     "dev": "vite",
